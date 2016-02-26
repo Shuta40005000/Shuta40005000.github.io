@@ -65,7 +65,7 @@ window.onload = function() {
                 if ( num - hit >= 5 ) {
                     game.pushScene( gameOverScene );
                     return;
-                } else if ( nowScore >= 7000 ) {
+                } else if ( nowScore >= 6000 ) {
                     game.pushScene( gameClearScene );
                     return;
                 }
