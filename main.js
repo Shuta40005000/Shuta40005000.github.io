@@ -96,7 +96,7 @@ window.onload = function() {
                     // 5‘ÌÁ‚·–ˆ‚ÉŠÔŠu‚ğ’Z‚­ 
                     if ( hit % 3 === 0 ) {
                         scoreRate = scoreRate + 20;
-                        interval = interval - 70;
+                        interval = interval - 90;
                     }
                 }, false );
                 
